@@ -1,12 +1,12 @@
 # Residential Energy Demand Forecasting and Optimisation
 
 ## 📊 Project Overview
-Time series analysis and forecasting of household electricity consumption patterns using classical and ARIMA-based methods. Part of MSc Data Science & Analytics coursework at Munster Technological University.
+Time series analysis and forecasting of residential energy demands using classical and ARIMA-based methods.
 
 ## 🎯 Objectives
-- Analyze 4 years of minute-level household power consumption data
+- Analyse 4 years of minute-level household power consumption data
 - Handle missing data using interpolation
-- Monthly aggregation of dataset
+- Monthly aggregation of the dataset
 - Identify seasonal patterns and trends
 - Build and compare forecasting models (Classical models vs ARIMA)
 - Generate 12-month consumption forecasts
@@ -43,7 +43,7 @@ Time series analysis and forecasting of household electricity consumption patter
 
 ## 🔍 Key Findings
 - Dataset exhibits **additive seasonality** with mild trend
-- Seasonal component has stronger impact than trend
+- The seasonal component has a stronger impact than the trend
 - 12-month forecast shows stable seasonal patterns
 - Holt-Winters Additive outperforms ARIMA on error metrics
 
