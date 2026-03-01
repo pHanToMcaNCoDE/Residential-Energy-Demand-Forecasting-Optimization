@@ -1,4 +1,4 @@
-# Household Energy Consumption Time Series Forecasting
+# Residential Energy Demand Forecasting and Optimisation
 
 ## 📊 Project Overview
 Time series analysis and forecasting of household electricity consumption patterns using classical and ARIMA-based methods. Part of MSc Data Science & Analytics coursework at Munster Technological University.
@@ -67,10 +67,9 @@ Time series analysis and forecasting of household electricity consumption patter
 
 ## 📚 References
 - Hebrail, G., & Berard, A. (2006). Individual Household Electric Power Consumption. UCI ML Repository.
-- Course: Time Series Analysis (STAT9005), MTU
 
 ## 👨‍💻 Author
-Victory Odumeh | MSc Data Science & Analytics | Munster Technological University
+Victory Odumeh | Data Analyst | Student @ MTU
 
 📧 [victory.odumeh@gmail.com]  
 💼 [LinkedIn](https://www.linkedin.com/in/victory-odumeh-421761223/)
